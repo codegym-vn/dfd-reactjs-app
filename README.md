@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Mã nguồn được sử dụng để thực hành tại [CodeGym Online](https://learn.codegym.vn).
 
 ## Available Scripts
 
